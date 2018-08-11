@@ -1,0 +1,11 @@
+{
+    "full_name": "Chris Barry",
+    "email": "chris.barry@makemoredigital.com",
+    "project_slug":"project_name",
+    "project_name": "Project Name",
+    "repo_name": "repo_name",
+    "project_short_description": "Short desc",
+    "release_date": "2018-01-01",
+    "year": "2018",
+    "version": "0.0.1"
+}
